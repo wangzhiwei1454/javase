@@ -26,7 +26,7 @@ public class PrintStreamTest {
         System.currentTimeMillis();
         PrintStream ps2 = System.out;
         System.exit(0);
-        System.arraycopy(....);
+        System.arrayCopy(....);
          */
 
         // 标准输出流不再指向控制台，指向“log”文件。

@@ -28,8 +28,6 @@ public class FileInputStreamTest04 {
                 System.out.print(new String(bytes, 0, readCount));
             }
 
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         } finally {
