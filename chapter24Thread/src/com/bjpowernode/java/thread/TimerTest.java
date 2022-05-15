@@ -24,12 +24,12 @@ public class TimerTest {
         //timer.schedule(new LogTimerTask() , firstTime, 1000 * 60 * 60 * 24 * 365);
 
         //匿名内部类方式
-        timer.schedule(new TimerTask(){
-            @Override
-            public void run() {
-                // code....
-            }
-        } , firstTime, 1000 * 10);
+//        timer.schedule(new TimerTask(){
+//            @Override
+//            public void run() {
+//                // code....
+//            }
+//        } , firstTime, 1000 * 10);
 
     }
 }

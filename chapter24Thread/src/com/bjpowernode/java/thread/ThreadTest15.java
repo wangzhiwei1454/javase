@@ -31,6 +31,13 @@ public class ThreadTest15 {
         // 创建线程对象
         Thread t = new Thread(task);
 
+        Thread t2 = new Thread(new FutureTask<Object>(new Callable<Object>() {
+            @Override
+            public Object call() throws Exception {
+                return null;
+            }
+        }));
+
         // 启动线程
         t.start();
 

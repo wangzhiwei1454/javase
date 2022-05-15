@@ -11,7 +11,7 @@ public class FileInputStreamTest04 {
     public static void main(String[] args) {
         FileInputStream fis = null;
         try {
-            fis = new FileInputStream("chapter23/src/tempfile3");
+            fis = new FileInputStream("C:/Users/31946/IdeaProjects/javase/chapter23Stream/src/tempfile3");
             // 准备一个byte数组
             byte[] bytes = new byte[4];
             /*while(true){

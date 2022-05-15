@@ -19,6 +19,21 @@ public class ThreadTest04 {
         // 启动线程
         t.start();
 
+        Thread t2 = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                try {
+                    System.out.println("begin===================" + Thread.currentThread().getName());
+                    Thread.sleep(5000);
+                    System.out.println("end===================" + Thread.currentThread().getName());
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+        });
+
+        t2.start();
+
         for(int i = 0; i < 100; i++){
             System.out.println("main线程---> " + i);
         }

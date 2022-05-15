@@ -5,338 +5,31 @@
       <artifact name="01_第一个网站:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="544dc944-c8bd-44b2-97c4-25b21810e155" name="Default Changelist" comment="first commit 2022/4/1">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/01__war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_23_bin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_第一个网站/01_第一个网站.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_第一个网站/web/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_第一个网站/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_第一个网站/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Copy02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/chapter15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/src/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/chapter19Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArraySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArrayTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArrayTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArrayTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArrayTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArrayTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArrayTest06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArrayTest07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArrayTest08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArrayTest09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArrayTest10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArrayTest11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArrayTest12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArrayTest13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArrayUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArraysTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/ArraysTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/homework/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/homework/HotelMgtSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/homework/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/homework/MyStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter19Array/src/com/bjpowernode/javase/array/homework/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/chapter20String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/date/DateTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/date/DateTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/date/DateTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/enum2/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/enum2/EnumTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/enum2/EnumTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/enum2/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/enum2/SwitchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/integer/IntegerTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/integer/IntegerTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/integer/IntegerTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/integer/IntegerTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/integer/IntegerTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/integer/IntegerTest06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/integer/IntegerTest07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/integer/IntegerTest08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/integer/MyInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/number/BigDecimalTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/number/DecimalFormatTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/random/RandomTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/random/RandomTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/string/StringTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/string/StringTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/string/StringTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/string/StringTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/string/StringTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/string/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/string/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/stringbuffer/StringBufferTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/stringbuffer/StringBufferTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/stringbuffer/StringBufferTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter20String/src/com/bjpowernode/javase/stringbuffer/StringBuilderTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/chapter21Exception.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/ExceptionTest17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/MyStackOperationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/homework/IllegalNameException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/homework/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter21Exception/src/com/bjpowernode/javase/exception/homework/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/chapter22Collection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/day24/homework/AddWeaponException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/day24/homework/Army.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/day24/homework/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/day24/homework/GaoShePao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/day24/homework/Moveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/day24/homework/Shootable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/day24/homework/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/day24/homework/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/day24/homework/Weapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/day24/homework/WuZiFeiJi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/bean/HashMapTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/bean/HashMapTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/bean/HashtableTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/bean/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/bean/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/ArrayListTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/ArrayListTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/BinaryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/CollectionTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/CollectionTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/CollectionTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/CollectionTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/CollectionTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/CollectionTest06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/CollectionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/ForEachTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/ForEachTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/GenericTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/GenericTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/GenericTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/HashMapTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/HashSetTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/LinkedListTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/ListTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/MapTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/MapTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/PropertiesTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/TreeSetTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/TreeSetTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/TreeSetTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/TreeSetTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/TreeSetTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/TreeSetTest06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/collection/VectorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/danlink/Link.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/danlink/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/danlink/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/review/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/review/HashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/review/HashSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/review/PropertiesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter22Collection/src/com/bjpowernode/javase/review/TreeSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/chapter23Stream.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/bean/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/BufferedReaderTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/BufferedReaderTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/BufferedWriterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/Copy01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/Copy02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/CopyAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/DataInputStreamTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/DataOutputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/FileInputStreamTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/FileInputStreamTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/FileInputStreamTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/FileInputStreamTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/FileInputStreamTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/FileOutputStreamTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/FileReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/FileTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/FileTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/FileTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/FileWriterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/IoPropertiesTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/LogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/ObjectInputStreamTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/ObjectInputStreamTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/ObjectOutputStreamTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/ObjectOutputStreamTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/PrintStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/tempfile4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/src/tempfile3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/tempfile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter23Stream/userinfo.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/chapter24Thread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/deadlock/DeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/exam1/Exam01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/exam2/Exam01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/exam3/Exam01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/exam4/Exam01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/TimerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/threadsafe/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/threadsafe/AccountThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/threadsafe/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/threadsafe2/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/threadsafe2/AccountThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/threadsafe2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/threadsafe3/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/threadsafe3/AccountThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/threadsafe3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/chapter25Reflect.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/classinfo.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/classinfo2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/bean/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/bean/Vip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/bean/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/AboutPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/ArgsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/IoPropertiesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/ReflectTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/ReflectTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/ReflectTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/ReflectTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/ReflectTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/ReflectTest06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/ReflectTest07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/ReflectTest08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/ReflectTest09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/ReflectTest10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/ReflectTest11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/ReflectTest12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/ReflectTest13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/ResourceBundleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/reflect/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter25Reflect/src/com/bjpowernode/java/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/chapter26Annotation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation/AnnotationTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation/AnnotationTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation/AnnotationTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation/OtherAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation2/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation2/MyAnnotationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation3/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation3/MyAnnotationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation3/OtherAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation3/OtherAnnotationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation4/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation4/OtherAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation4/OtherAnnotationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation4/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation5/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation5/MyAnnotationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation5/ReflectAnnotationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation6/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation6/MyAnnotationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation7/HasNotIdPropertyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation7/MustHasIdPropertyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation7/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter26Annotation/src/com/bjpowernode/java/annotation7/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/copy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16homework/day16homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16homework/src/Homework2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16homework/src/Homework3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16homework/src/Homework4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16homework/src/Homework5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16homework/src/com/baidu/Compute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16homework/src/com/baidu/ComputeImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16homework/src/com/baidu/MyMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16homework/src/com/baidu/MyTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16homework/src/com/baidu/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16homework/src/com/baidu/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16homework/src/com/bjpowernode/javase/day16/homework/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16homework/src/org/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/01__war_exploded/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/01__war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/01__war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/01_firstWebsite_war_exploded/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/01_firstWebsite_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/01_firstWebsite_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter15/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter15/AccountTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter15/HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter15/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16homework/Homework2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16homework/Homework3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16homework/Homework4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16homework/Homework5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16homework/MyTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16homework/Number.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16homework/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16homework/Vehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16homework/com/baidu/Compute.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16homework/com/baidu/ComputeImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16homework/com/baidu/MyMath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16homework/com/baidu/MyTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16homework/com/baidu/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16homework/com/baidu/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16homework/com/bjpowernode/javase/day16/homework/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16homework/org/T.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/com/wzw/javaprojects/JDBCTest01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/com/wzw/javaprojects/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/com/wzw/javaprojects/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/com/wzw/javaprojects/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tempfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/com/wzw/javaprojects/JDBCTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/com/wzw/javaprojects/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/com/wzw/javaprojects/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/com/wzw/javaprojects/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/FileInputStreamTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter23Stream/src/com/bjpowernode/java/io/FileInputStreamTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest06.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest12.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest13.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest15.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/ThreadTest15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/TimerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter24Thread/src/com/bjpowernode/java/thread/TimerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -355,6 +48,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/wangzhiwei1454/javase.git" />
+      </set>
+    </option>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -384,11 +84,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/course/git-space/springcloud-config" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.selected.configurable" value="GitLabConfigurableProvider" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -402,7 +102,33 @@
       <recent name="C:\Users\Administrator\IdeaProjects\javase\chapter24\src\com\bjpowernode\java\exam3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test01">
+  <component name="RunManager" selected="Application.BufferedReaderTest01">
+    <configuration name="BufferedReaderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.java.io.BufferedReaderTest01" />
+      <module name="chapter23Stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.java.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileInputStreamTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.java.io.FileInputStreamTest04" />
+      <module name="chapter23Stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.java.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wzw.javaprojects.Test" />
       <module name="test" />
@@ -416,12 +142,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wzw.javaprojects.Test01" />
-      <module name="test" />
+    <configuration name="ThreadTest16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.java.thread.ThreadTest16" />
+      <module name="chapter24Thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wzw.javaprojects.*" />
+          <option name="PATTERN" value="com.bjpowernode.java.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.java.thread.TimerTest" />
+      <module name="chapter24Thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.java.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -640,8 +379,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.BufferedReaderTest01" />
+        <item itemvalue="Application.FileInputStreamTest04" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TimerTest" />
+        <item itemvalue="Application.ThreadTest16" />
       </list>
     </recent_temporary>
   </component>
@@ -717,65 +459,170 @@
       <workItem from="1640445267509" duration="3763000" />
       <workItem from="1640604538418" duration="975000" />
       <workItem from="1644323875368" duration="697000" />
-      <workItem from="1648806329021" duration="360000" />
+      <workItem from="1648806329021" duration="474000" />
+      <workItem from="1649236384836" duration="12191000" />
+      <workItem from="1649317729299" duration="4661000" />
+      <workItem from="1649342434328" duration="14471000" />
+      <workItem from="1649518543287" duration="3264000" />
+      <workItem from="1649649640042" duration="3631000" />
+      <workItem from="1649940564505" duration="847000" />
+      <workItem from="1649954464701" duration="23000" />
+      <workItem from="1650087677814" duration="614000" />
+      <workItem from="1650970753838" duration="3554000" />
+      <workItem from="1651142962432" duration="338000" />
+      <workItem from="1651389607422" duration="1112000" />
+      <workItem from="1651394578607" duration="184000" />
+      <workItem from="1651397667026" duration="7393000" />
+      <workItem from="1651645990894" duration="8000" />
+      <workItem from="1651647609482" duration="892000" />
+      <workItem from="1651802499776" duration="335000" />
+      <workItem from="1651803074615" duration="33000" />
+      <workItem from="1651803196140" duration="18000" />
+      <workItem from="1652620724027" duration="1775000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit 2022/4/1">
+      <created>1648806776889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648806776889</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit 2022/4/1">
+      <created>1651389918945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651389918945</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit 2022/4/1">
+      <created>1651389927193</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651389927193</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit 2022/4/1" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit 2022/4/1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1648806400700">
+    <state x="539" y="130" width="458" height="585" key="#HTTP_Proxy" timestamp="1651143241470">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1648806400700" />
+    <state x="539" y="130" width="458" height="585" key="#HTTP_Proxy/0.0.1536.824@0.0.1536.824" timestamp="1651143241470" />
+    <state x="249" y="0" key="#Project_Structure" timestamp="1652621493833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1652621493833" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1650971205518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1650971205518" />
+    <state x="387" y="62" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1649578026251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="387" y="62" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1649578026251" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1651658618065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1651658618065" />
     <state x="579" y="331" key="Gitee.CreateGistDialog" timestamp="1648806382096">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="579" y="331" key="Gitee.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1648806382096" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1644324576404">
+    <state x="640" y="310" key="Github.ShareDialog" timestamp="1651389976426">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1644324576404" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1644324576404">
+    <state x="640" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1651389976426" />
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom" timestamp="1652622398917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1644324576404" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1644324576404">
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1652622398917" />
+    <state width="1493" height="238" key="GridCell.Tab.0.center" timestamp="1652622398917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1644324576404" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1644324576404">
+    <state width="1493" height="238" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1652622398917" />
+    <state width="1493" height="238" key="GridCell.Tab.0.left" timestamp="1652622398917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1644324576404" />
-    <state width="1493" height="223" key="GridCell.Tab.1.bottom" timestamp="1640530153030">
+    <state width="1493" height="238" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1652622398917" />
+    <state width="1493" height="238" key="GridCell.Tab.0.right" timestamp="1652622398917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640530153030" />
-    <state width="1493" height="223" key="GridCell.Tab.1.center" timestamp="1640530153029">
+    <state width="1493" height="238" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1652622398917" />
+    <state width="1493" height="238" key="GridCell.Tab.1.bottom" timestamp="1652622398917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1640530153029" />
-    <state width="1493" height="223" key="GridCell.Tab.1.left" timestamp="1640530153029">
+    <state width="1493" height="238" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1652622398917" />
+    <state width="1493" height="238" key="GridCell.Tab.1.center" timestamp="1652622398917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1640530153029" />
-    <state width="1493" height="223" key="GridCell.Tab.1.right" timestamp="1640530153029">
+    <state width="1493" height="238" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1652622398917" />
+    <state width="1493" height="238" key="GridCell.Tab.1.left" timestamp="1652622398917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1640530153029" />
-    <state x="270" y="57" key="SettingsEditor" timestamp="1648806683594">
+    <state width="1493" height="238" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1652622398917" />
+    <state width="1493" height="238" key="GridCell.Tab.1.right" timestamp="1652622398917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1648806683594" />
-    <state x="178" y="0" key="new project wizard" timestamp="1640606762691">
+    <state width="1493" height="238" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1652622398917" />
+    <state x="349" y="155" key="IDE.errors.dialog" timestamp="1651658399634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="178" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1640606762691" />
+    <state x="349" y="155" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1651658399634" />
+    <state x="408" y="116" key="NewModule_or_Project.wizard" timestamp="1649649720398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="116" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1649649720398" />
+    <state x="479" y="132" key="RollbackChangesDialog" timestamp="1652622489267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="132" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1652622489267" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1651394683732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1651394683732" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1651394729813">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1651394729813" />
+    <state x="468" y="120" width="600" height="584" key="find.popup" timestamp="1650087695855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="120" width="600" height="584" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1650087695855" />
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1649577912910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1649577912910" />
   </component>
 </project>
